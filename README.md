@@ -29,8 +29,6 @@ Para começar meus estudos, utilizarei como base dois conteúdos principais:
 
 
 
-
-[Aula 01 - Maratona Java ](#Aula-01-Maratona-Java )
-## Aula 01 - Maratona Java 
-
+[Aula 01 - Maratona Java ](#Aula-01-Maratona-Java)
 ![img.png](img.png)
+
