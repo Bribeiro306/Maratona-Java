@@ -1,4 +1,4 @@
-package Aulas.maratona.java;
+package TiposPrimitivos;
 // os tipos primitivos devem ser escritos em letras minúsculas
 
 
