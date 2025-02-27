@@ -1,6 +1,6 @@
-package TiposPrimitivos;
+package Maratona_Java;
 
-public class Aula03TiposPrimitivosExercecios {
+public class Aula_03_Tipos_Primitivos_Exercecios {
     public static void main(String[] args) {
         // criar variaveis para nome , endereço , salario e data
         String nome = "João";

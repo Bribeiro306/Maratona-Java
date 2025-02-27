@@ -1,8 +1,8 @@
-package TiposPrimitivos;
+package Maratona_Java;
 // os tipos primitivos devem ser escritos em letras minúsculas
 
 
-public class Aula02_TiposPrimitivos {
+public class Aula_02_Tipos_Primitivos {
 
     // os tipos primitivos são - int , - Int, double, float, char, byte, short, long e boolean
 

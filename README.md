@@ -28,16 +28,16 @@ Para começar meus estudos, utilizarei como base dois conteúdos principais:
 * Reflexões sobre desafios e conquistas.
 
 ## Sumário
-- [Aula_01_Maratona_Java](#Aula-01-Maratona-Java)
-- [Aula_02_Tipos_Primitivos](#Aula-02-Tipos-Primitivos)
-- [Aula_03_Tipos_Primitivos_Exercício](#Aula-03-Tipos-Primitivos-Exercício)
-- [Aula_04_Maratona_Java](#Aula-04-Maratona-Java)
+- [Aula_01_Introdução_Maratona_Java](#Introdução-Maratona-Java)
+- [Aula_02_Tipos_Primitivos](#Tipos-Primitivos)
+- [Aula_03_Tipos_Primitivos_Exercício](#Tipos-Primitivos-Exercício)
+- [Aula_04_Operadores_Atitiméticos](#Operadores-Aritiméticos)
 - [Aula_05_Maratona_Java](#Aula-05-Maratona-Java)
 
 
 
 
-## Aula 01 - Maratona Java 
+## Introdução - Maratona Java 
 ![img_1.png](img_1.png)
 
 O Java é uma linguagem compilada, ou seja, o código-fonte escrito precisa ser compilado antes de ser executado.
@@ -69,3 +69,16 @@ o tipos primitivos devem ser escritos em letras minúsculas
 *tipos primitivos eles são armazenados diretamente na memória e têm um tamanho fixo, 
 o que os torna eficientes em termos de desempenho*
 
+## Tipos Primitivos Exercício 
+
+
+
+
+
+
+
+
+
+## Operadores - Aritiméticos 
+
+### 
