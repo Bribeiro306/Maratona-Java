@@ -73,7 +73,7 @@ o que os torna eficientes em termos de desempenho*
 
 # Tipos Primitivos Exercício 
 
-Na Aula 03 fiz um exercício simple criar variáveis para nome, endereço, salário e data e
+Na Aula 03 fiz um exercício simples criar variáveis para nome, endereço, salário e data e
 imprimir uma mensagem utilizando os tipos primitivos. A mensagem foi:
 
 "eu 'Nome' , morando no 'endereço' , confirmo que recebi o salário de 'salário' ,
