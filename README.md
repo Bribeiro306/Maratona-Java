@@ -32,7 +32,7 @@ primeira oportunidade no mercado de trabalho.
 - [Aula_01_Introdução_Maratona_Java](#Introdução-Maratona-Java)
 - [Aula_02_Tipos_Primitivos](#Tipos-Primitivos)
 - [Aula_03_Tipos_Primitivos_Exercício](#Tipos-Primitivos-Exercício)
-- [Aula_04_Operadores_Atitiméticos](#Operadores-Aritiméticos)
+- [Aula_04_Operadores](#Operadores)
 - [Aula_05_Maratona_Java](#Aula-05-Maratona-Java)
 
 
