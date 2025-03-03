@@ -10,20 +10,20 @@ public class Aula_04_Operadores {
         int numero2 = 20;
         int resultado = (numero1 + numero2);
 
-        System.out.println (resultado);
-    // %
-       int resto = 20 % 2;
+        System.out.println(resultado);
+        // %
+        int resto = 20 % 2;
 
-       System.out.println(resto);
+        System.out.println(resto);
 
-       // < > <= >= == !=
+        // < > <= >= == !=
         boolean isDezMaiorQueVinte = 10 > 20;
         boolean isDezMenorQueVinte = 10 < 20;
-        boolean isDezIgualVinte = 10==20;
-        boolean isDezIgualDez = 10==10;
-        boolean isDezDiferenteDeDez = 10!=10;
+        boolean isDezIgualVinte = 10 == 20;
+        boolean isDezIgualDez = 10 == 10;
+        boolean isDezDiferenteDeDez = 10 != 10;
 
-        System.out.println("isDezMaiorQueVinte " +isDezMaiorQueVinte);
+        System.out.println("isDezMaiorQueVinte " + isDezMaiorQueVinte);
         System.out.println("isDezMenorQueVinte " + isDezMenorQueVinte);
         System.out.println("isDezIgualVinte " + isDezIgualVinte);
         System.out.println("isDezIgualDez " + isDezIgualDez);
@@ -44,6 +44,14 @@ public class Aula_04_Operadores {
         boolean isVideogameCompravel = ValorTotalContaCorrente >= ValorVideoGame || ValorPoupança >= ValorVideoGame;
 
         System.out.println("isVideoGameCompravel " + isVideogameCompravel);
+
+        // += -= *= /= %=
+
+        double bonus = 2000;
+        bonus += 1000;
+        bonus -= 4000;
+
+        System.out.println(bonus);
 
     }
 

@@ -12,7 +12,7 @@ public class Aula_03_Tipos_Primitivos_Exercecios {
         na data 'data'  */
 
         System.out.println("eu " + nome + ",morando em " + endereço + ",confirmo que recebi o salario de " + salario +
-                " reais" + ",na data " +  data);
+                " reais" + ",na data " + data);
 
     }
 }

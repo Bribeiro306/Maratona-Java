@@ -17,9 +17,9 @@ public class Aula_02_Tipos_Primitivos {
         char caracter = 66;
         String nome = "Bruno";
 
-        System.out.println (idade);
-        System.out.println("meu nome é "+ nome);
-        System.out.println (caracter);
+        System.out.println(idade);
+        System.out.println("meu nome é " + nome);
+        System.out.println(caracter);
 
     }
 
