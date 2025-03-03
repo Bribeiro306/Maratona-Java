@@ -133,3 +133,7 @@ Os operadores lógicos sempre retornarão valores booleanos
 A estrutura else if é utilizada para encadear múltiplas condições após uma verificação inicial com if. Isso permite
 testar sequencialmente diferentes cenários: se a condição do if não for satisfeita, o programa passa para o else if e
 assim sucessivamente.
+
+## Operador Ternário 
+
+É uma forma concisa de escrever uma estrutura if-else
