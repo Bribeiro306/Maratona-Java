@@ -11,7 +11,7 @@ Para começar meus estudos, utilizarei como base dois conteúdos principais:
 ### Playlist Maratona Java
 
 * Desenvolvida pela DevDojo, essa playlist é composta por mais de 200 aulas e busca
-* ensinar Java desde o nível iniciante até o
+ensinar Java desde o nível iniciante até o
   avançado(https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW).
 
 # Objetivo: Registrar e Acompanhar os meus Estudos
@@ -39,7 +39,7 @@ Para começar meus estudos, utilizarei como base dois conteúdos principais:
 - [Aula_02_Tipos_Primitivos](#Tipos-Primitivos)
 - [Aula_03_Tipos_Primitivos_Exercício](#Tipos-Primitivos-Exercício)
 - [Aula_04_Operadores](#Operadores)
-- [Aula_05_Estruturas_Condicionais](#Aula-05-Estruturas_Condicionais)
+- [Aula_05_Estruturas_Condicionais](#Estruturas-Condicionais)
 
 ## Introdução - Maratona Java
 
@@ -122,7 +122,7 @@ Os operadores lógicos sempre retornarão valores booleanos
 * ||(OR) - Retorna True se pelo menos uma condição for verdadeira
 * !(NOT) - utilizado para inverter o valor de uma expressão(como se fosse um se não).
 
-# Estruturas Condicionais
+## Estruturas Condicionais
 
 ## IF
 
