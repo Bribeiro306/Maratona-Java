@@ -1,6 +1,6 @@
 package Maratona_Java;
 
-public class Aula_04_Operadores {
+public class Aula04Operadores {
     public static void main(String[] args) {
        /*  Operadores = (+)  (-)  (/)  (*)
        divisão de dois numeros inteiros o resultado é um numero inteiro

@@ -1,6 +1,6 @@
 package Maratona_Java;
 
-public class Aula_05_Estruturas_Condicionais01 {
+public class Aula05EstruturasCondicionais01 {
     public static void main(String[] args) {
         // IF
 

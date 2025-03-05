@@ -1,6 +1,6 @@
 package Maratona_Java;
 
-public class Aula_05_Estruturas_Condicionais03 {
+public class Aula05EstruturasCondicionais03 {
     public static void main(String[] args) {
         // variavel = (condição) ? valor_se_verdadeiro : valor_se_falso;
 

@@ -1,6 +1,6 @@
 package Maratona_Java;
 
-public class Aula_05_Estruturas_Condicionais02 {
+public class Aula05EstruturasCondicionais02 {
     public static void main(String[] args) {
         /*
         Elo < 800 Categoria Bronze

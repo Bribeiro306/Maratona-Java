@@ -1,6 +1,6 @@
 package Maratona_Java;
 
-public class Aula_05_Exercicio {
+public class Aula05EstruturasCondicionais04 {
     public static void main(String[] args) {
         // Qual é o valor dos impostos que devo pagar na Holanda com base no meu salário anual?
         double salario = 60000;
