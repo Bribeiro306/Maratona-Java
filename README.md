@@ -11,7 +11,7 @@ Para começar meus estudos, utilizarei como base dois conteúdos principais:
 ### Playlist Maratona Java
 
 * Desenvolvida pela DevDojo, essa playlist é composta por mais de 200 aulas e busca
-ensinar Java desde o nível iniciante até o
+  ensinar Java desde o nível iniciante até o
   avançado(https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW).
 
 # Objetivo: Registrar e Acompanhar os meus Estudos
@@ -40,6 +40,7 @@ ensinar Java desde o nível iniciante até o
 - [Aula_03_Tipos_Primitivos_Exercício](#Tipos-Primitivos-Exercício)
 - [Aula_04_Operadores](#Operadores)
 - [Aula_05_Estruturas_Condicionais](#Estruturas-Condicionais)
+- [Aula_06_Estruturas_de_Repetição](#Estruturas-de-Repetição)
 
 ## Introdução - Maratona Java
 
@@ -134,6 +135,32 @@ A estrutura else if é utilizada para encadear múltiplas condições após uma 
 testar sequencialmente diferentes cenários: se a condição do if não for satisfeita, o programa passa para o else if e
 assim sucessivamente.
 
-## Operador Ternário 
+## Operador Ternário
 
 É uma forma concisa de escrever uma estrutura if-else
+
+## Switch/Case
+
+é utilizaado em casos em que temos que utilizar multiplos ifs no codigo o tornando extenso
+utilizando o Switch é possivel reduzir o numero de linhas
+
+# Estruturas de Repetição
+
+Estruturas de repetição, também conhecidas como ‘loops’ (laços),
+são utilizadas para executar repetidamente uma instrução
+ou bloco de instrução enquanto determinada condição estiver concluída. As
+de repetição são:
+
+- While
+- Do While
+- For
+
+## Break
+
+O comando break pode ser utilizado em qualquer estrutura de repetição, como for, while e do-while, para interromper a
+execução do loop imediatamente.
+ 
+
+
+
+
