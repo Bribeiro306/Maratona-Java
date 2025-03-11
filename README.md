@@ -159,7 +159,17 @@ de repetição são:
 
 O comando break pode ser utilizado em qualquer estrutura de repetição, como for, while e do-while, para interromper a
 execução do loop imediatamente.
- 
+
+# Arrays
+
+Em Java, arrays são objetos que armazenam múltiplos valores de um mesmo tipo. Os Arrays possuem
+um valor padão que varia conforme o tipo armazenado.
+
+
+
+
+
+
 
 
 

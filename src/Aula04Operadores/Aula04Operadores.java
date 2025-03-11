@@ -1,4 +1,4 @@
-package Maratona_Java;
+package Aula04Operadores;
 
 public class Aula04Operadores {
     public static void main(String[] args) {

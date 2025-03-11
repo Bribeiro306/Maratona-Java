@@ -1,4 +1,4 @@
-package Maratona_Java;
+package Aula06EstruturasDeRepetição;
 
 public class Aula06EstruturasDeRepetição01 {
     public static void main(String[] args) {
