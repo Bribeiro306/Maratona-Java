@@ -165,6 +165,12 @@ execução do loop imediatamente.
 Em Java, arrays são objetos que armazenam múltiplos valores de um mesmo tipo. Os Arrays possuem
 um valor padão que varia conforme o tipo armazenado.
 
+# Java Core
+
+A orientação a objetos em Java organiza o software em "objetos"
+que representam entidades ou conceitos, facilitando a manutenção e a reutilização do código
+
+
 
 
 
