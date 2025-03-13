@@ -170,6 +170,21 @@ um valor padão que varia conforme o tipo armazenado.
 A orientação a objetos em Java organiza o software em "objetos"
 que representam entidades ou conceitos, facilitando a manutenção e a reutilização do código
 
+# Coesão 
+
+
+# Métodos
+
+### Parâmetros
+### Retorno
+
+### Parâmetros Tipos Primitivos
+
+
+
+
+
+
 
 
 

@@ -1,4 +1,4 @@
-package JavaCoreIntroduçãoClasses.Dominio;
+package JavaCore.AIntroduçãoClasses.Dominio;
 
 public class Estudante {
     public String nome;
