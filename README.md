@@ -23,7 +23,6 @@ Para começar meus estudos, utilizarei como base dois conteúdos principais:
 
 * Demonstrar o meu nível de conhecimento e evolução na linguagem.
 
-* Mostrar para possíveis recrutadores a minha dedicação, organização e capacidade de aprendizado.
 
 # Aqui, você encontrará:
 
@@ -31,7 +30,6 @@ Para começar meus estudos, utilizarei como base dois conteúdos principais:
 
 * Anotações sobre conceitos importantes.
 
-* Reflexões sobre desafios e conquistas.
 
 ## Sumário
 
